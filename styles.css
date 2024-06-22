@@ -1,0 +1,41 @@
+.cardborder{
+    width:310px;
+    background-color: steelblue;
+    border:2px solid gray;
+    padding:5px;
+}
+
+img{
+    width:296px;
+    border:2px solid white;
+    border-radius:5px;
+}
+
+.inscription{
+    background-color:lightsteelblue;
+    border:2px solid white;
+    padding: 5px;
+    margin: 5px;
+    border-radius:5px;
+}
+
+.int{
+    font: italic 10pt serif;
+    background-color:lightsteelblue;
+    margin:5px;
+}
+
+li{
+    font: normal 9pt serif;
+    list-style-type: none;
+}
+
+span{
+    font-weight:bold;
+}
+
+.bio{
+    font: normal 10pt serif;
+    background-color:lightsteelblue;
+    margin:5px;
+}
